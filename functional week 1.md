@@ -26,13 +26,20 @@ public class Main {
 ```
 
 ### Perbedaaan Functional Programming & Purely Functional Programming  
-{1}
-{2}
-{3}
-{4}
-{5}
 
+### Karakteristik
+#### First Class Citizens
 
-(a,b) => {
-a + b
-}
+In Functional programming, functions are considered first-class citizens. A function is called a first-class citizen if it can be:
+
+* stored in a variable
+* passed as an argument to a function
+* returned as a value from other functions
+
+All these operations are achieved using functional interfaces introduced in Java 8.
+
+#### Functional Interfaces
+#### java.util.function.Function
+
+#### method reference in java
+https://www.scaler.com/topics/method-reference-in-java/
